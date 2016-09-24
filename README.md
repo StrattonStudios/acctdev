@@ -1,2 +1,4 @@
 # acctdev
-Tools used for data input and other useful automations
+Quick and dirty functions for manipulating data and file directory stuctures.
+
+
